@@ -8,6 +8,7 @@ export default function App() {
         flex: 1,
         justifyContent: "center",
         alignItems: "center",
+        backgroundColor: "#FFF8E1"
       }}
     >
       <LoginScreen />
